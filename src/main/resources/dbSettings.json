@@ -1,0 +1,5 @@
+{
+  "uri": "jdbc:mysql://localhost:3306/union_reporting",
+  "user": "",
+  "password": ""
+}

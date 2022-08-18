@@ -1,0 +1,9 @@
+{
+  "baseUri": "https://jsonplaceholder.typicode.com",
+  "postsURI": "/posts/",
+  "usersURI": "/users/",
+  "validPostId": "99",
+  "invalidPostId": "150",
+  "userId": "1",
+  "validUserId": "5"
+}
