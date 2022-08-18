@@ -25,4 +25,4 @@ dump software work with the database through interaction with representations in
 Postconditions.
 |---|----|
 |1.Delete the records created in from the database.|The records have been deleted|
-|----|----|
+
