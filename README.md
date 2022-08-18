@@ -12,7 +12,7 @@ TC-1. Adding a new entry
 TC-2. Processing of test data
 
  Precondition.
- |  |
+ |---|
  |---|
  
 |1.Select tests from the database where ID contains two random repeating digits, for example "11" or "77". But no more than 10 tests.|
