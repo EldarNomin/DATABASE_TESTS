@@ -4,20 +4,21 @@ dump software work with the database through interaction with representations in
 
 TC-1. Adding a new entry
 
-| Step| Expected result     |
+|Step| Expected result     |
 |--------|-----------------------|
-| Run any test (or several).| The test has completed.|
-| Add a result of each completed test in the database as a new record in the corresponding table.| Information added|
+|1.Run any test (or several).| The test has completed.|
+|2.Add a result of each completed test in the database as a new record in the corresponding table.| Information added|
 
 TC-2. Processing of test data
 
-Precondition
+ Precondition
 1.Select tests from the database where ID contains two random repeating digits, for example "11" or "77". But no more than 10 tests.
 2.Copy these tests with an indication of the   project and the author.
 
-| Step| Expected result     |
+|Step| Expected result     |
 |--------|-----------------------|
 |Stimulate the launch of each tests. Update information about them in the database.| Tests are completed, information is updated.|
 
-Postconditions.
-|Delete the records created in   from the database.|The records have been deleted.|
+ Postconditions.
+|-----|-----|
+|1.Delete the records created in   from the database.|The records have been deleted.|
