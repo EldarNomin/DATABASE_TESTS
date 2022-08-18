@@ -3,7 +3,7 @@ t's necessary to deploy a mysql server locally and restore the database from the
 dump software work with the database through interaction with representations in the form of models (CRUD).
 
 |TC-1. Adding a new entry|
-|---|
+             |---|
 
 |Step| Expected result     |
 |--------|-----------------------|
@@ -11,7 +11,7 @@ dump software work with the database through interaction with representations in
 |2.Add a result of each completed test in the database as a new record in the corresponding table.| Information added|
 
 |TC-2. Processing of test data|
-|---|
+          |---|
 
  Precondition.
  |---|
@@ -24,6 +24,5 @@ dump software work with the database through interaction with representations in
 
  |Postconditions.|
   |---|
- 
 |1.Delete the records created in from the database.|The records have been deleted|
 |----|----|
