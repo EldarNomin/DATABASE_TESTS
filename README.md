@@ -21,5 +21,6 @@ TC-2. Processing of test data
 |Stimulate the launch of each tests. Update information about them in the database.| Tests are completed, information is updated.|
 
  Postconditions.
-|-------|------:|
-|1.Delete the records created in from the database.|The records have been deleted.|
+|-------|
+|1.Delete the records created in from the database.|
+|The records have been deleted.|
