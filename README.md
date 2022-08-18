@@ -10,7 +10,8 @@ dump software work with the database through interaction with representations in
 |1.Run any test (or several).| The test has completed.|
 |2.Add a result of each completed test in the database as a new record in the corresponding table.| Information added|
 
-TC-2. Processing of test data
+|TC-2. Processing of test data|
+|---|
 
  Precondition.
  |---|
@@ -21,6 +22,8 @@ TC-2. Processing of test data
 |--------|-----------------------|
 |Stimulate the launch of each tests. Update information about them in the database.| Tests are completed, information is updated.|
 
- Postconditions.
- |---|
-|1.Delete the records created in from the database.|
+ |Postconditions.|
+  |---|
+ 
+|1.Delete the records created in from the database.|The records have been deleted|
+|----|----|
