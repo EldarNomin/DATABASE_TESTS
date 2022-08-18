@@ -23,6 +23,6 @@ dump software work with the database through interaction with representations in
 |Stimulate the launch of each tests. Update information about them in the database.| Tests are completed, information is updated.|
 
 Postconditions.
-|   |   |
+||
 |---|---|
 |1.Delete the records created in from the database.|The records have been deleted||"
