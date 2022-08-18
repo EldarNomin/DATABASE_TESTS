@@ -13,8 +13,6 @@ TC-2. Processing of test data
 
  Precondition.
  |---|
- |---|
- 
 |1.Select tests from the database where ID contains two random repeating digits, for example "11" or "77". But no more than 10 tests.|
 |2.Copy these tests with an indication of the   project and the author.|
 
@@ -23,6 +21,5 @@ TC-2. Processing of test data
 |Stimulate the launch of each tests. Update information about them in the database.| Tests are completed, information is updated.|
 
  Postconditions.
-| | |
 |-----|-----|
 |1.Delete the records created in   from the database.|The records have been deleted.|
